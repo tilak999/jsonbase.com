@@ -1,6 +1,6 @@
 ## jsonbase.com - Node Library
 
-A node wrapper library for <a href='https://www.jsonbase.com'>www.jsonbase.com</a>
+A node wrapper library for <jsonbase.com>
 
 ## Install
 ``` shell
