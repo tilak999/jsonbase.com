@@ -25,7 +25,7 @@ store.write('person',{ Name: 'John Doe', Age: 56 })
 // Inner JSON object/Value can't be created or modified directly.
 // instead create your own methodology for creating nested childs
 store.write('person-email',{ email: 'john@demo.com' })
-    .then(resp=>console.log)
+    .then(console.log)
 ```
 
 ### Read Data
