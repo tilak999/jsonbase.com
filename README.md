@@ -62,7 +62,7 @@ store.delete('person')
 If you don't pass any key or provide non-existing key to <b>delete</b> method then it will throw error, so check before using delete on a key.
 
 ### Limits
-jsonbase.com has some generous free limit, make sure to check the request-limits before using it in real world applications. 
+<https://jsonbase.com> has some generous free limit, make sure to check the request-limits before using it in real world applications. 
 
 ### License
 [MIT](LICENSE)
