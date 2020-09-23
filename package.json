@@ -1,0 +1,25 @@
+{
+  "name": "jsonbase.com",
+  "version": "1.0.0",
+  "description": "Node library for jsonbase.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tilak999/jsonbase.com.git"
+  },
+  "keywords": [
+    "jsonbase.com",
+    "json-store",
+    "jsonbase",
+    "jsonstore"
+  ],
+  "author": "Tilak Sasmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tilak999/jsonbase.com/issues"
+  },
+  "homepage": "https://github.com/Tilak999/jsonbase.com#readme"
+}
